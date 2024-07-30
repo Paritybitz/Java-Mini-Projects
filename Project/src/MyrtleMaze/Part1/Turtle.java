@@ -1,6 +1,6 @@
-package src.MyrtleMaze;
+package src.MyrtleMazePT1;
 
-import MyrtleMaze.Block;
+import src.MyrtleMazePT1.Block;
 
 import java.awt.*;
 import javax.swing.*;

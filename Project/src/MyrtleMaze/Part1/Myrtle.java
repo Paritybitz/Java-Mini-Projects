@@ -1,4 +1,4 @@
-package src.MyrtleMaze;
+package src.MyrtleMazePT1;
 
 
 import javax.swing.*;

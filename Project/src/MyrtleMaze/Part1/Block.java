@@ -1,7 +1,7 @@
-package src.MyrtleMaze;
+package src.MyrtleMazePT1;
 
-import Myrtle.Block;
-import Myrtle.Turtle;
+import src.MyrtleMazePT1.Turtle;
+import src.MyrtleMazePT1.Block;
 
 import java.awt.*;
 public class Block
