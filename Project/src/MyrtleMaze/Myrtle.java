@@ -1,4 +1,4 @@
-package src.Project;
+package src.MyrtleMaze;
 
 
 import javax.swing.*;

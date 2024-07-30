@@ -1,4 +1,4 @@
-package src.Project;
+package src.MyrtleMaze;
 
 import Myrtle.Block;
 import Myrtle.Turtle;
