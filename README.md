@@ -197,8 +197,3 @@ The Myrtle Maze project is a Java-based application where a turtle, named Myrtle
 ### Myrtle Class
 
 The `Myrtle` class extends the `Turtle` class and provides additional methods for fruit-related tasks and navigation.
-
-#### Constructor
-
-```java
-public Myrtle(JPanel world, Block[][] map, char direction, int row, int col, int appleCount, int orangeCount, int lemonCount)
