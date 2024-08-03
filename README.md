@@ -9,7 +9,7 @@
 
 Welcome to **Blob Game**, an exciting and interactive Java project where you control a growing Blob in a world full of evil Blobs. Your mission: eat the smaller blobs to grow bigger while avoiding the larger ones!
 
-### Table of Contents
+### Table of Contents 
 - [Introduction](#introduction)
 - [Gameplay](#gameplay)
 - [Features](#features)
