@@ -1,11 +1,11 @@
-package src.MyrtleMazePT1;
-
-import src.MyrtleMazePT1.Myrtle;
-import src.MyrtleMazePT1.Block;
+package src.MyrtleMaze.MyrtleMazePT1;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
+import src.MyrtleMaze.MyrtleMazePT1.Myrtle;
+
 import java.util.*;
 
 public class MyrtleTester extends JPanel implements ActionListener, MouseListener, KeyListener

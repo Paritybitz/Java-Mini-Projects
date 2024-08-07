@@ -1,4 +1,4 @@
-package src.MyrtleMazePT2;
+package src.MyrtleMaze.MyrtleMazePT2;
 
 import java.util.*;
 import java.awt.*;

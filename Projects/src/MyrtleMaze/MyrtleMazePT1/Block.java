@@ -1,9 +1,9 @@
-package src.MyrtleMazePT1;
-
-import src.MyrtleMazePT1.Turtle;
-import src.MyrtleMazePT1.Block;
+package src.MyrtleMaze.MyrtleMazePT1;
 
 import java.awt.*;
+
+import src.MyrtleMaze.MyrtleMazePT1.Block;
+import src.MyrtleMaze.MyrtleMazePT1.Turtle;
 public class Block
 {
     private boolean isWall;

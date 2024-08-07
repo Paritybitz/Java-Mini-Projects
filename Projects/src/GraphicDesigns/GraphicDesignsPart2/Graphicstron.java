@@ -1,10 +1,12 @@
-package GraphicDesignsPart2;
+package src.GraphicDesigns.GraphicDesignsPart2;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
+import src.GraphicDesigns.GraphicDesignsPart2.Painter;
+
 import java.util.*;
-import GraphicDesignsPart2.Painter;
 
 public class Graphicstron extends JPanel implements ActionListener{
 

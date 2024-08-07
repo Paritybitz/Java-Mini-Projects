@@ -1,4 +1,4 @@
-package GraphicDesigns;
+package src.GraphicDesigns.GraphicDesignsPart1;
 
 import java.awt.*;
 import java.util.*;

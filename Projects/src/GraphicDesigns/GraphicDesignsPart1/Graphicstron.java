@@ -1,11 +1,12 @@
 
-package GraphicDesigns;
-
-import GraphicDesigns.Painter;
+package src.GraphicDesigns.GraphicDesignsPart1;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
+import src.GraphicDesigns.GraphicDesignsPart1.Painter;
+
 import java.util.*;
 
 public class Graphicstron extends JPanel implements ActionListener{
@@ -13,7 +14,7 @@ public class Graphicstron extends JPanel implements ActionListener{
     private ArrayList<Button> buttons;
     private String choice;
 
-    private GraphicDesigns.Painter thePainter;
+    private src.GraphicDesigns.GraphicDesignsPart1.Painter thePainter;
     int command;
 
     public Graphicstron(){
